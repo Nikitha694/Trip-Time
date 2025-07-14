@@ -1,0 +1,252 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"gu",
+				"Guide"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"ht",
+				"html"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"_",
+				"_POST"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ASUS/Desktop/html/ht/div.html",
+		"/C/xampp/htdocs/tms/index.php",
+		"/C/xampp/htdocs/tms/includes/header.php",
+		"/C/xampp/htdocs/tms/admin/index.php",
+		"/C/xampp/htdocs/tms/admin/create-package.php",
+		"/C/xampp/htdocs/tms/admin/includes/sidebarmenu.php",
+		"/C/xampp/htdocs/tms/admin/manage-bookings.php",
+		"/C/xampp/htdocs/tms/includes/signin.php",
+		"/C/xampp/htdocs/tms/includes/config.php",
+		"/C/xampp/htdocs/tms/package-list.php",
+		"/C/xampp/htdocs/tms/admin/dashboard.php",
+		"/C/xampp/htdocs/tms/admin/includes/header.php",
+		"/C/xampp/htdocs/tms/admin/manage-pages.php",
+		"/C/xampp/htdocs/tms/registration.php",
+		"/C/xampp/htdocs/tms/vizag.php",
+		"/C/xampp/htdocs/tms/qr.php",
+		"/C/xampp/htdocs/tms/amaravathi.php",
+		"/C/xampp/htdocs/tms/l.php",
+		"/C/xampp/htdocs/tms/t.php",
+		"/C/xampp/htdocs/tms/admin/logout.php",
+		"/C/xampp/htdocs/tms/change-password.php",
+		"/C/xampp/htdocs/tms/package-details.php",
+		"/C/xampp/htdocs/tms/issuetickets.php",
+		"/C/xampp/htdocs/tms/page.php",
+		"/C/xampp/htdocs/tms/enquiry.php",
+		"/C/xampp/htdocs/tms/admin/manage-users.php",
+		"/C/xampp/htdocs/tms/check_availability.php",
+		"/C/xampp/htdocs/tms/profile.php",
+		"/C/xampp/htdocs/tms/tour-history.php",
+		"/C/Users/ASUS/Downloads/Tourism-Management-System-using-PHP-MySQL-TMS/Tourism Management System using PHP & MySQL -TMS/tms/index.php",
+		"/C/xampp/htdocs/tms/forgot-password.php",
+		"/C/xampp/htdocs/tms/includes/write-us.php",
+		"/C/xampp/htdocs/tms/includes/signup.php",
+		"/C/xampp/htdocs/tms/includes/footer.php",
+		"/C/xampp/htdocs/tms/header.php",
+		"/C/Users/ASUS/Downloads/Tourism-Management-System-using-PHP-MySQL-TMS/Tourism Management System using PHP & MySQL -TMS/tms/profile.php",
+		"/C/Users/ASUS/Downloads/Tourism-Management-System-using-PHP-MySQL-TMS/Tourism Management System using PHP & MySQL -TMS/tms/page.php",
+		"/C/Users/ASUS/AppData/Local/Temp/Rar$DIa12468.17848/thankyou.php",
+		"/C/Users/ASUS/Downloads/Tourism-Management-System-using-PHP-MySQL-TMS/Tourism Management System using PHP & MySQL -TMS/tms/package-list.php",
+		"/C/Users/ASUS/Downloads/Tourism-Management-System-using-PHP-MySQL-TMS/Tourism Management System using PHP & MySQL -TMS/tms/includes/header.php",
+		"/C/Users/ASUS/Downloads/Tourism-Management-System-using-PHP-MySQL-TMS/Tourism Management System using PHP & MySQL -TMS/tms/package-details.php",
+		"/C/Users/ASUS/Desktop/html/qr.php",
+		"/C/Users/ASUS/Downloads/tourism_1/tourism/book_form.php",
+		"/C/Users/ASUS/Downloads/tourism_1/tourism/index.php",
+		"/C/Users/ASUS/Downloads/tourism_1/tourism/login.php",
+		"/C/Users/ASUS/Downloads/tourism_1/tourism/edit_account.php",
+		"/C/Users/ASUS/Downloads/tourism_1/tourism/config.php",
+		"/C/Users/ASUS/Downloads/tourism_1/tourism/admin/index.php",
+		"/C/Users/ASUS/Downloads/tourism_1/tourism/admin/inc/footer.php",
+		"/C/Users/ASUS/Downloads/tourism_1/tourism/admin/books/view.php",
+		"/C/Users/ASUS/Downloads/tourism_1/tourism/admin/books/index.php",
+		"/C/Users/ASUS/Downloads/tourism_1/tourism/admin/packages/manage.php",
+		"/C/Users/ASUS/Downloads/tourism_1/tourism/admin/packages/index.php",
+		"/C/Users/ASUS/Downloads/tourism_1/tourism/admin/unanswered/index.php",
+		"/C/Users/ASUS/Downloads/tourism_1/tourism/admin/home.php",
+		"/C/neha/htdocs/index.php",
+		"/C/Users/ASUS/Desktop/Tourism management system/tms/admin/dashboard.php",
+		"/C/Users/ASUS/Desktop/Tourism management system/tms/admin/change_image.php",
+		"/C/Users/ASUS/Downloads/tourism_1/tourism/inc/header.php",
+		"/C/Users/ASUS/Desktop/Tourism management system/tms/admin/index.php",
+		"/C/xampp/htdocs/tms/admin/change_password.php",
+		"/C/Users/ASUS/AppData/Local/Temp/Rar$DIa11224.36007/view_package.php",
+		"/C/Users/ASUS/AppData/Local/Temp/Rar$DIa11224.38402/index.php",
+		"/C/xampp/htdocs/tms/change_password.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "check_availability.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

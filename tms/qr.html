@@ -1,0 +1,69 @@
+<html>
+<head>
+<title>Guide selection</title>
+<link rel="stylesheet" type="text/css" href="style.css"/>
+<style>
+    body{
+        background-image: url('h.jpg');
+    }
+ 
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+</style>
+</head>
+<body>
+<h><center><b>Guide selection</b></center></h>
+<p align="center">Scan the below QR codes and select the guide you want and you can add the contact if you like the guide</p>
+<form action="t.html">
+    <div class="row">
+        <div class="column">
+          &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <img src="eswar.jpg" height="250" width="250">
+        </div>
+
+        <div class="column">
+          &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="jhon.jpg" height="250" width="250">
+        </div>
+      
+        <div class="column">
+          &nbsp&nbsp &nbsp&nbsp&nbsp <img src="sham.jpg" height="250" width="250">
+        </div>
+      </div>
+      <div class="row">
+        <div class="column">
+            <input type="radio" value="Guide 1"/>
+              <label>Guide 1</label>
+        </div>
+
+        <div class="column">
+              <input type="radio"value="Guide 2"/>
+              <label>Guide 2</label>
+        </div>
+        <input type="radio" value="Guide 3"/>
+          <label>Guide 3</label>
+        <div class="column">
+ 
+        </div>
+      </div>
+
+    <br>
+    <br>
+    <br>  
+    <center><input type="submit" value="Book" /></center>
+ </form>
+</body>
+</html>

@@ -1,0 +1,113 @@
+<?php
+session_start();
+error_reporting(0);
+include('includes/config.php');
+?>
+<html>
+<head>
+<title>Guide selection</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Tourism Management System In PHP" />
+<script type="applijewelleryion/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
+<link href="css/style.css" rel='stylesheet' type='text/css' />
+<link href='//fonts.googleapis.com/css?family=Open+Sans:400,700,600' rel='stylesheet' type='text/css'>
+<link href='//fonts.googleapis.com/css?family=Roboto+Condensed:400,700,300' rel='stylesheet' type='text/css'>
+<link href='//fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+<link href="css/font-awesome.css" rel="stylesheet">
+<!-- Custom Theme files -->
+<script src="js/jquery-1.12.0.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<!--animate-->
+<link href="css/animate.css" rel="stylesheet" type="text/css" media="all">
+<script src="js/wow.min.js"></script>
+    <script>
+         new WOW().init();
+    </script>
+<link rel="stylesheet" type="text/css" href="style.css"/>
+<style> 
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+</style>
+</head>
+<body>
+     <?php include('includes/header.php');?>
+<!--- banner ---->
+<div class="banner-3">
+    <div class="container">
+        <h1 class="wow zoomIn animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;"> TT- Package List</h1>
+    </div>
+</div>
+<div class="privacy">
+    <div class="container">
+      <h2 class="wow fadeInDown animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s;animation-name: fadeInDown;color:#00ad54;"><center><b>Guide selection</b></center></h2>
+      <p align="center">Scan the below QR codes and select the guide you want and you can add the contact if you like the guide</p>
+        <form action="t.php">
+          <div class="row">
+            <div class="column">
+              &nbsp; &nbsp;<img src="sai.jpg" height="250" width="250" style="border: 5px solid #000000;padding: 3px;margin: 5px">
+            </div>
+            <div class="column">
+              &nbsp; &nbsp;&nbsp; &nbsp;<img src="vasu.jpg" height="250" width="250"  style="border: 5px solid #000000;padding: 3px;margin: 5px">
+            </div>      
+            <div class="column">
+             &nbsp; &nbsp;&nbsp; &nbsp; <img src="yadav.jpg" height="250" width="250"  style="border: 5px solid #000000;padding: 3px;margin: 5px">
+            </div>
+          </div>
+          <div class="row">
+            <div class="column">
+             &nbsp; &nbsp; <input type="radio" name="Guide" value="Guide 1" id="Guide 1" required="">Guide 1</input>
+            </div>
+            <div class="column">
+              &nbsp; &nbsp;&nbsp; &nbsp;<input type="radio" name="Guide" value="Guide 2" id="Guide 2" required="">Guide 2</input>
+            </div>
+            <div class="column">
+              &nbsp; &nbsp;&nbsp; &nbsp;<input type="radio" name="Guide" value="Guide 2" id="Guide 3" required="">Guide 3</input>
+            </div>
+          </div>
+
+    <br>
+    <br>
+    <br>  
+    <?php if($_SESSION['login'])
+    {?>
+      <li class="spe" align="center">
+        <button type="submit" name="Book" class="btn-primary btn">Book</button>
+      </li>
+    <?php } else {?>
+      <li class="sigi" align="center" style="margin-top: 1%">
+        <a href="#" data-toggle="modal" data-target="#myModal4" class="btn-primary btn" onclick="registration.php"><center>Book</center></a></li>
+      <?php } ?>
+ 
+        </form>
+      </div>
+    </div>
+         <?php include('includes/footer.php');?>
+<!-- signup -->
+<?php include('includes/signup.php');?>         
+<!-- //signu -->
+<!-- signin -->
+<?php include('includes/signin.php');?>         
+<!-- //signin -->
+<!-- write us -->
+<?php include('includes/write-us.php');?>
+</body>
+</html>
+<?php
+?>
